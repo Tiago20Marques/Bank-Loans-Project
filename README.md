@@ -17,7 +17,7 @@ Data visualisation in Power BI to present findings in a clear, interactive dashb
 - PowerBI (Data visualisation and dashboard creation)
 
 ## 📂 Files Included
-- `Bank Loans Project.xlsx` – Dataset
+- `bank_loan_data_100.csv` – Shortened Dataset
 - `Bank Loans Project.sql` – Queries and KPI Calculations
 - `Bank Loans Project.pbix` – Power BI dashboard
 - Screenshots for previews
